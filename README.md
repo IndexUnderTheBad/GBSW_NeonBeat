@@ -9,16 +9,19 @@
 ###### NeonBeat는 플레이어가 노래를 즐기며 즐거움을 느낄 수 있는 것이 목표다.
 
 ---
-
+![KakaoTalk_20221222_113622112](https://user-images.githubusercontent.com/121466139/209597164-f7a5be6b-5306-4231-b21c-ddbae88e84d1.jpg){: width="100" height="100"}
 ## 배준우
+
   - edwin2514381 @ gmail.com
   - 팀장 / 메인 코딩, 통합, UI, 문서 및 사이트 제작
-  
+![KakaoTalk_20221221_210325668_02](https://user-images.githubusercontent.com/121466139/209597171-5431ab9d-0dec-4008-8be3-f79ce26a8d62.jpg){: width="100" height="100"}
 ## 권내규
+
   - 
   - 팀원 / 코딩, 음원 편집, UI
-  
+![KakaoTalk_20221221_211024580](https://user-images.githubusercontent.com/121466139/209597176-d098916a-0947-4250-ab9c-cb3a504d6507.jpg){: width="100" height="100"}
 ## 송도현
+
   - 
   - 팀원 / 코딩
   
@@ -45,6 +48,7 @@
 ###### 모든 오류 수정 완료 및 최종 발표 준비
 
 ---
+
 ## 플로우 차트
 
 ![image](https://user-images.githubusercontent.com/121466139/209595790-334de703-07e3-42e2-90f6-2fc9ac8cc619.png)
