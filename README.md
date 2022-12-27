@@ -61,12 +61,8 @@
 
 ---
 
-- 깃허브 저장소 주소
+[깃허브 저장소 주소](https://github.com/IndexUnderTheBad/GBSW_NeonBeat)
 
-- 팀 소개 영상
+[팀 소개 영상 - 구글 드라이브](https://drive.google.com/drive/folders/1VHkuzD8B8mzFreuf2bLjA9c63MTJjsD-)
 
-- 기획 발표 자료 (1차)
-
-- 중간 발표 자료 (2차)
-
-- 최종 발표 자료 (3차)
+[캡스톤 발표 자료 모음 - 구글 드라이브](https://drive.google.com/drive/folders/1z9V30kKYF8uVxEF2bLaHZVrlpkWJBVnE)
