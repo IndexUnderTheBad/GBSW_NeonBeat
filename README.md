@@ -63,6 +63,8 @@
 
 [깃허브 저장소 주소](https://github.com/IndexUnderTheBad/GBSW_NeonBeat)
 
+[NeonBeat 빌드본 주소 - 구글 드라이브](https://drive.google.com/drive/folders/1e0RoS5nCYS7aq-Y6Q9-NWPHJXc6iFqGP)
+
 [팀 소개 영상 - 구글 드라이브](https://drive.google.com/drive/folders/1VHkuzD8B8mzFreuf2bLjA9c63MTJjsD-)
 
 [캡스톤 발표 자료 모음 - 구글 드라이브](https://drive.google.com/drive/folders/1z9V30kKYF8uVxEF2bLaHZVrlpkWJBVnE)
